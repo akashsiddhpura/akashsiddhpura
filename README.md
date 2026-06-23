@@ -52,8 +52,6 @@ B2B/B2C multi-vendor procurement platform with real-time inventory management.
 - **Senior Flutter Developer** at Weapplinse Technology (Feb 2022 - Jul 2023)
 - **Junior Flutter Developer** at SAT TechnoLab (Jan 2021 - Feb 2022)
 
-### 🎓 **Education**
-- **Bachelor of Computer Applications (BCA)** - Veer Narmad South Gujarat University (2019 - 2022)
 
 ### 📧 **Get In Touch**
 - 📧 Email: [aksiddhpura410@gmail.com](mailto:aksiddhpura410@gmail.com)
